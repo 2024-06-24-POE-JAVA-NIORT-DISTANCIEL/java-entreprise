@@ -7,6 +7,7 @@ public class MonPremierTest  {
 
     @Test
     public void testInutile() throws Exception {
-       Assertions.assertTrue(true);
+
+
     }
 }
